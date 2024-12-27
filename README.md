@@ -4,6 +4,7 @@
 
 - Python 3.12.7
 - Django 5.1.4
+- Django REST framework 3.15.2
 
 # Справка
 
