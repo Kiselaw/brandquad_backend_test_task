@@ -106,6 +106,17 @@ Linux/MacOS
 python3 manage.py parse_logs <url>
 ```
 
+**Запуск тестов:**
+
+```bash
+py manage.py test
+```
+
+Linux/MacOS
+
+```bash
+python3 manage.py test
+```
 
 ### 2) Запуск на Docker контейнерах:
 
